@@ -1,0 +1,29 @@
+@media (min-width: 992px) and (max-width: 1170px) {
+    header {
+        height: 70vh;
+        float:none;
+    }
+    header div {
+        top: 5%;
+        text-align: right;
+         }   
+}
+
+
+@media (max-width: 991px) {
+    header {
+        height: 50vh;
+    }
+
+    header div {
+        top: 100%;
+        text-align: center;
+        color: #000;
+    }
+}
+@media (min-width:1171px){
+    figure{
+        height:100vh;
+
+    }
+}
